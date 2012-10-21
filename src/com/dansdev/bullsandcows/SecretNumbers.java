@@ -1,4 +1,4 @@
-package com.dansdev.bulls.and.cows;
+package com.dansdev.bullsandcows;
 
 import java.util.Random;
 

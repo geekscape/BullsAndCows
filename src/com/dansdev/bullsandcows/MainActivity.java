@@ -1,4 +1,4 @@
-package com.dansdev.bulls.and.cows;
+package com.dansdev.bullsandcows;
 
 import android.app.Activity;
 import android.content.Context;
